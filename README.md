@@ -1,4 +1,4 @@
-[Visita el sitio en vivo aquí](https://carlogutierrezmau.github.io/web_project_homeland/index.html)
+[Visita el sitio en vivo aquí](https://carlogutierrezmau.github.io/web_project_homeland/)
 
 # Tripleten web_project_homeland
 
