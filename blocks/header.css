@@ -44,7 +44,7 @@
 }
 
 .header__image {
-  width: 100%;
+  max-width: 984px;
 }
 
 @media screen and (max-width: 768px) {
@@ -67,6 +67,9 @@
     line-height: 79px;
     text-align: center;
     margin: 0 auto 25px;
+  }
+  .header__image {
+    width: 100%;
   }
 }
 
