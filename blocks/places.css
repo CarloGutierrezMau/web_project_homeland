@@ -87,7 +87,7 @@
 .places__nft {
   max-width: 289px;
   height: 48px;
-  background: linear-gradient(to right, #0278fe, #003a7b);
+  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   display: grid;
   place-items: center;
   margin-top: 48px;
@@ -124,11 +124,14 @@
     grid-row-gap: 30px;
     margin: 0 auto 50px;
   }
+
   .places__image-container {
     grid-column: 1/2;
     grid-row: 3/4;
   }
-
+  .places__image {
+    box-shadow: none;
+  }
   .places__paragraphs {
     grid-column: 1/2;
     grid-row: 4/5;
