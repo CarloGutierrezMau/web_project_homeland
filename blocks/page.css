@@ -8,9 +8,5 @@ body {
 }
 
 .page {
-  align-items: center;
-  margin: 0 auto;
-  max-width: 987px;
-  font-family: Inter;
-  color: #ffffff;
+  color: #fff;
 }
