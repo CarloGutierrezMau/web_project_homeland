@@ -35,6 +35,7 @@
 .places__url {
   color: #aaaaaa;
   margin-bottom: 8px;
+  font-family: Inter;
 }
 
 .places__artist {
